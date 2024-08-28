@@ -1,1 +1,3 @@
 # gemini-1_5-flash-opencv-assistant
+
+🚧🏗️👷 In the process of developing...
